@@ -1,0 +1,7 @@
+.card {
+  border: 1px solid #ccc; /* Cor do contorno */
+  border-radius: 8px;     /* Bordas arredondadas */
+  padding: 16px;          /* Espaçamento interno */
+  margin: 10px;           /* Margem externa */
+  box-shadow: 0 2px 5px rgba(255, 0, 0, 0.1); /* Sombra */
+}
